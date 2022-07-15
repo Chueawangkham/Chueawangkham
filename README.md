@@ -1,6 +1,7 @@
 # Hi I'm Bass, Welcome to my Github profile🥳
 
 ## [Resume](https://chueawangkham.github.io/Resume/)
+[![Screenshot-2022-07-16-021610.png](https://i.postimg.cc/0Q5m6W3P/Screenshot-2022-07-16-021610.png)](https://postimg.cc/2qJ3MwrK)
 
 **ช่องทางติดต่อ:**
 
