@@ -1,6 +1,6 @@
 # Hi I'm Bass, Welcome to my Github profile🥳
 
-## [Web Resume](https://chueawangkham.github.io/Resume/)
+## [Web Resume]()
 
 ## [Android App](https://drive.google.com/file/d/1d5l1QyckcXtKxF4UGPUmt-769vIznqIh/view?usp=sharing)
 [![Screenshot-2022-07-16-0220066.png](https://i.postimg.cc/DZdFShDY/Screenshot-2022-07-16-0220066.png)](https://postimg.cc/wyvnrC9h)[![Screenshot-2022-07-16-0219433.png](https://i.postimg.cc/sfmsyV5M/Screenshot-2022-07-16-0219433.png)](https://postimg.cc/rzDvN2nT)
