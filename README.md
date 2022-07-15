@@ -5,7 +5,7 @@
 **ช่องทางติดต่อ:**
 
 - Line: [link](https://line.me/ti/p/j1dRd-G-45?fbclid=IwAR0QuOya2V4srQVhp7_7N0Zk8IRSco41Csis_Jij91fWQyxCl3mBh6FiqRY)
-- Email: Thibess091@Gmail.com
+- Email: thibess091@gmail.com
 
 **Fonts**
 
