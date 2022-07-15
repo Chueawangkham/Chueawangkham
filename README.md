@@ -1,4 +1,4 @@
-# Responsive Resume - Flutter UI
+# Hi I'm Bass, Welcome to my Github profile🥳
 
 ## [Resume](https://chueawangkham.github.io/Resume/)
 
