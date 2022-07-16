@@ -11,7 +11,7 @@ It is a place to collect my work in the future.
 ## [Android App](https://drive.google.com/file/d/14P6zF5XLw9Cd4tSy3VRf5bI302itgiAb/view?usp=sharing)
 
 If you open it with an android mobile phone, this is an APK file to install the application on your mobile.
-- https://drive.google.com/file/d/1d5l1QyckcXtKxF4UGPUmt-769vIznqIh/view?usp=sharing
+- https://drive.google.com/file/d/14P6zF5XLw9Cd4tSy3VRf5bI302itgiAb/view?usp=sharing
 
  [![Screenshot-2022-07-16-0220066.png](https://i.postimg.cc/fLvc4FLX/Screenshot-2022-07-16-0220066.png)](https://postimg.cc/Fd7d3T0s)
  [![Screenshot-2022-07-16-0219433.png](https://i.postimg.cc/cCH8pLPy/Screenshot-2022-07-16-0219433.png)](https://postimg.cc/1nkt6s9J)
